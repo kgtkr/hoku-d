@@ -155,8 +155,7 @@ phina.main(function () {
         height: H,
         fps: 60,
         title:"ほくほくちー\nだいなそー",
-        fit:false
-    });
+   });
     app.run();
 });
 
